@@ -1,8 +1,8 @@
 ## How do I install these formulae?
 
-`brew install ericwq/aprilsh/<formula>`
+`brew install ericwq/utils/<formula>`
 
-Or `brew tap ericwq/aprilsh` and then `brew install <formula>`.
+Or `brew tap ericwq/utils` and then `brew install <formula>`.
 
 ## Documentation
 
@@ -39,4 +39,3 @@ aprilsh
 Error: 1 problem in 1 formula detected.
 qiwang@Qi15Pro homebrew %
 ```
-
